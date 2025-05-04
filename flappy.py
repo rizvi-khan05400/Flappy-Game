@@ -48,7 +48,6 @@ class Base:
         window.blit(base_img, (self.x1, self.y))
         window.blit(base_img, (self.x2, self.y))
 
-
 # Pipe Class
 class Pipe:
     gap = 200
