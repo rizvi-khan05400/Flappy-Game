@@ -42,27 +42,27 @@ pip install pygame
 python flappy_game.py
 
 🎮 Controls
-Press SPACEBAR to make the bird jump
+    1.Press SPACEBAR to make the bird jump
 
-Avoid pipes and don’t fall to the ground
+    2.Avoid pipes and don’t fall to the ground
 
-Score increases every time you pass a pipe
+    3.Score increases every time you pass a pipe
 
 📸 Screenshots
 (Place screenshots in the assets/ folder and link here if needed)
 
 🧠 Code Structure
-Bird: Handles bird physics, animation, rotation
+    1.Bird: Handles bird physics, animation, rotation
 
-Pipe: Generates pipes, moves them, detects collision
+    2.Pipe: Generates pipes, moves them, detects collision
 
-Base: Scrolling ground effect
+    3.Base: Scrolling ground effect
 
-draw_window(): Renders all game objects
+    4.draw_window(): Renders all game objects
 
-main(): Main game loop
+    5.main(): Main game loop
 
-game_over(): Game over screen
+    6.game_over(): Game over screen
 
 📄 Documentation
 See flappy_bird_code_explained.pdf for a line-by-line code explanation.
