@@ -3,7 +3,7 @@
 
 A Python implementation of the classic Flappy Bird game using the [Pygame](https://www.pygame.org/) library.
 
-![Flappy Bird Screenshot](assets/preview.png)
+![Flappy Bird Screenshot](assets)
 
 ## 🚀 Features
 
